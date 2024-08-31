@@ -1,4 +1,4 @@
-<span style="color: violet;"> **HUSAY** </span>
+<span style="color: magenda;"> **HUSAY** </span>
 
 ***by PolyChroma***
 
